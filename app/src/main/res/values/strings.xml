@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab02</string>
+    <string-array
+        name="array">
+        <item> Hi TJ! </item>
+        <item> Hi mom! </item>
+        <item> Hi nik! </item>
+    </string-array>
+    <string name="click_button">Submit</string>
+    <string name="arrayButton">Submit Array</string>
+    <string name="name_hint">name</string>
+</resources>
